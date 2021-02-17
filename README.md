@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Halaszka
+#### I am a C++ Programmer
+I want to share my experiences and my projects on GitHub, and maybe I can help others.
 
-<!--
-**Halaszka/halaszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡️ Skills: C++
+💬 Languages: German, English, Polish
+👾 Discord: Halaszka#4143
 
-Here are some ideas to get you started:
+![Halaszka's GitHub stats](https://github-readme-stats.vercel.app/api?username=halaszka&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halaszka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halaszka)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
