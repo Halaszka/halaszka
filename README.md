@@ -16,12 +16,15 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=halaszka&show_icons=true&theme=tokyonight)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halaszka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halaszka&langs_count=8&theme=tokyonight)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7b13b0dd-fe8a-4172-83bd-6f9c261094a5&theme=tokyonight)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/halaszka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="halaszka" /></a></p><br><br>
 
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/halaszka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="halaszka" /></a></p>
 
+<br>
 <p align="left"> <a href="https://twitter.com/halaszka_yt" target="blank"><img src="https://img.shields.io/twitter/follow/halaszka_yt?logo=twitter&style=for-the-badge" alt="halaszka_yt" /></a> </p>
 
