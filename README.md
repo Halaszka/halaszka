@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Halaszka</h1>
 <h3 align="center">C++ Developer</h3>
 
+
+- 📖 Currently I'm learning the programming language C++ since a few months to expand my knowledge more and more.
+
+- 💻 Programming Languages: C++, PHP 
+
+- 💬 Languages: German, English, Polish
+
+
+- 👾: Discord: Halaszka#4143 
+
 <h2 align="left">Connect with me 📧</h2>
 <p align="left">
 <a href="https://twitter.com/halaszka_yt" target="blank"><img align="center" src="https://www.svgrepo.com/show/126780/twitter.svg" alt="halaszka_yt" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/14507840" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="14507840" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZax42Tg7nMa5wpamaE1ZBg" target="blank"><img align="center" src="https://www.svgrepo.com/show/126753/youtube.svg" alt="halaszka" height="40" width="40" /></a>
 </p>
-
-<h2 align="left">Languages and Tools 🔨</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <h2 align="left">Stats 📊</h3>
 
