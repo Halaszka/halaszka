@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halaszka&langs_count=8&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7b13b0dd-fe8a-4172-83bd-6f9c261094a5&theme=tokyonight)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Halaszka&theme=tokyonight)
 
 
 
