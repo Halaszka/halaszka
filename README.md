@@ -2,7 +2,7 @@
 <h3 align="center">C++ Developer</h3>
 
 
-- 📖 Currently I'm learning the programming language C++ since a few months to expand my knowledge more and more.
+- 📖 I'm learning the programming language C++ since a few months to expand my knowledge more and more.
 
 - 💻 Programming Languages: C++, PHP 
 
